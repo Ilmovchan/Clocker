@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwjgOvJYIxBalg7xvLW18oQgdlxH9fll0vV7otN7JXNnc9H3Rlo+kg7cppbTsHWi2NZyySUQQAIKu0+AMZ+EFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\One\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\One\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\One\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
