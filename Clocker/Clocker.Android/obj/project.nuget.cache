@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ynZxgQFd7R51CIDDvGEbDclidm+FjCwizUsVQxdu35nbDk2hVCCvBlEUd81d7ANsCgQQDb8gO2uJa32rGRpsw==",
+  "dgSpecHash": "tdnGKBrAg5WMzRv5WxIw45/QRI7N7kTURt/KUq3dg/3CQBbLvWKNAZVRwhUUM/d5BlMarVmyaZeOmfi3JCyocQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker.Android\\Clocker.Android.csproj",
+  "projectFilePath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.Android\\Clocker.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\One\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\One\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

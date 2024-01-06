@@ -9,8 +9,12 @@
            HorizontalTextAlignment="Center" TextColor="Black"
                FontFamily="QuickSandBold"/>
 
+        <StackLayout x:Name="FlagLayout" Padding="0,25,0,0" HeightRequest="200">
+            
+        </StackLayout>
+
         <BoxView VerticalOptions="FillAndExpand"/>
-        <Grid Padding="5,0">
+        <Grid Padding="5,0" x:Name="ButtonGrid">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
@@ -19,10 +23,9 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <ImageButton x:Name="StartButton" Source="play.png" WidthRequest="50" Grid.Column="1" BackgroundColor="#fffafafa" />
-            <ImageButton x:Name="PauseButton" Source="pause.png" WidthRequest="50" Grid.Column="3" BackgroundColor="#fffafafa"/>
         </Grid>
         <BoxView HeightRequest="100"/>
+
     </StackLayout>
 
 </ContentPage>

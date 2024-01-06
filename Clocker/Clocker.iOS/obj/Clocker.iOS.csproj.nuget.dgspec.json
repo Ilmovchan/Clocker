@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj": {}
+    "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj": {
+    "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj",
         "projectName": "Clocker.iOS",
-        "projectPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj",
+        "projectPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.iOS\\Clocker.iOS.csproj",
         "packagesPath": "C:\\Users\\One\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker.iOS\\obj\\",
+        "outputPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.csproj": {
-                "projectPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.csproj"
+              "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker\\Clocker.csproj": {
+                "projectPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker\\Clocker.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.csproj": {
+    "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker\\Clocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.csproj",
+        "projectUniqueName": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker\\Clocker.csproj",
         "projectName": "Clocker",
-        "projectPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.csproj",
+        "projectPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker\\Clocker.csproj",
         "packagesPath": "C:\\Users\\One\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\obj\\",
+        "outputPath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638399755692387674
+_nugetassetstimestamp=638400629374658900
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\one\documents\github\clocker\clocker.android\clocker.android.csproj
+projectfullpath=c:\users\one\documents\github\clocker\clocker\clocker.android\clocker.android.csproj

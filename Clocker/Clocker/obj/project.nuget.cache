@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ro5jfC5/N8R/ku8BR6rMsYlmsxYcwUUii3CZUcawJhNtgKpoNOS7KFOMqHYk4eyBlQ1pNw19e0+zsvy0s+1/Pw==",
+  "dgSpecHash": "3EG+9RZEvto6FN/v3GCr+FzD4n6VJklhU1z4chKrIpWah5hUoBUiUqJg9vvtbuhw6xKzz/LcXclNqFwhld/rgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker.csproj",
+  "projectFilePath": "C:\\Users\\One\\Documents\\GitHub\\Clocker\\Clocker\\Clocker\\Clocker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\One\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\One\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
